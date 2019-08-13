@@ -1,0 +1,43 @@
+---What is the purpose of the app?
+Criar um painel de controlo de um carro eléctrico touch-screen, que permite modificar o seu aspecto e a modo de apresentação das informações relevantes ao carro.
+
+---What are the goals of the app?
+Criar um painel de controlo simples, podendo ser modificado livremente mas com algumas restrições, algumas informações terão de ser sempre apresentadas.
+----------------------------------------------------------------------------------------------------------------------------
+
+USER
+
+---Personal---
+Pedro Neves
+---What is the age of your person?
+30
+
+---What is the gender of your person?
+Male
+
+---What is the highest level of education this person has received?
+Licenciatura de Ciencias do Mar na Universidade de Aveiro e conclui o Mestrado em Biologia Marinha na mesma.
+
+---Professional---
+
+---How much work experience does your person have?
+Tem alguma experiência informática, pois o seu trabalho envolve muita pesquisa online e juntar essa informação. Tem facilidade no manuseamento de dispositivos electronicos.
+
+Why will they use this car?
+O seu trabalho é sobre o meio ambiente, então prefere comprar um carro electrico que é amigo do ambiente. E uma das principais caracteristicas do carros electricos é os seus paineis de controlo, por isso, escolhe se o carro com a melhor configuração e simplicidade.
+
+When and where will the user use the car?
+Vai utilizar todos os dias, a distancia para o trabalho exige uma viagem de ida e volta com o carro.
+
+---Motiviation---
+
+---What is your person motivated by? 
+Como é uma pessoa que se preocupa com o ambiente, é importante o pouco consumo do carro, e o carro electrico é a melhor opção, pois é um carro não poluente.
+
+---What are they looking for?
+Está há procura do carro menos poluente e de menos consumo, o que consiga andar mais tempo sem ter de voltar a carregar.
+
+
+
+
+
